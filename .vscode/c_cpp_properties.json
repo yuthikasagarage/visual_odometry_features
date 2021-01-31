@@ -1,0 +1,37 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/yuthika/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/yuthika/Qt/5.12.3/gcc_64/include/**",
+        "/home/yuthika/catkin_ws/src/Fast-Planner/fast_planner/bspline/include/**",
+        "/home/yuthika/catkin_ws/src/Fast-Planner/fast_planner/bspline_opt/include/**",
+        "/home/yuthika/catkin_ws/src/mavros_controllers/controller_msgs/include/**",
+        "/home/yuthika/catkin_ws/src/mavros_controllers/geometric_controller/include/**",
+        "/home/yuthika/catkin_ws/src/mav_comm/mav_msgs/include/**",
+        "/home/yuthika/catkin_ws/src/mav_comm/mav_planning_msgs/include/**",
+        "/home/yuthika/catkin_ws/src/Fast-Planner/uav_simulator/Utils/multi_map_server/include/**",
+        "/home/yuthika/catkin_ws/src/Fast-Planner/fast_planner/path_searching/include/**",
+        "/home/yuthika/catkin_ws/src/Fast-Planner/fast_planner/plan_env/include/**",
+        "/home/yuthika/catkin_ws/src/Fast-Planner/fast_planner/plan_manage/include/**",
+        "/home/yuthika/catkin_ws/src/Fast-Planner/fast_planner/poly_traj/include/**",
+        "/home/yuthika/catkin_ws/src/Fast-Planner/uav_simulator/Utils/pose_utils/include/**",
+        "/home/yuthika/catkin_ws/src/Fast-Planner/uav_simulator/Utils/quadrotor_msgs/include/**",
+        "/home/yuthika/catkin_ws/src/Fast-Planner/uav_simulator/so3_control/include/**",
+        "/home/yuthika/catkin_ws/src/Fast-Planner/uav_simulator/so3_disturbance_generator/include/**",
+        "/home/yuthika/catkin_ws/src/Fast-Planner/uav_simulator/so3_quadrotor_simulator/include/**",
+        "/home/yuthika/catkin_ws/src/Fast-Planner/fast_planner/traj_utils/include/**",
+        "/home/yuthika/catkin_ws/src/mavros_controllers/trajectory_publisher/include/**",
+        "/home/yuthika/catkin_ws/src/Fast-Planner/uav_simulator/Utils/uav_utils/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
